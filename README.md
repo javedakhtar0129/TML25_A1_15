@@ -16,14 +16,14 @@ Interestingly, we also found that the best performing attack in our tests was ac
 
 ##  Repository Structure
 
-├── Assignment1_TML25_19.ipynb # Main Jupyter notebook (all code & results)
-├── public.pt / private.pt # Datasets for shadow/target models
-├── test_XGBoost.csv # XGBoost membership scores (for server)
-├── test_MLP.csv # MLP membership scores (for server)
-├── test_Lira.csv # LiRA scores (for server)
-├── shadow_attack_X.npy # Shadow set attack features
-├── shadow_attack_y.npy # Shadow set attack labels
-├── README.md # This file
+-Assignment1_TML25_19.ipynb # Main Jupyter notebook (all code & results)
+-public.pt / private.pt # Datasets for shadow/target models
+-test_XGBoost.csv # XGBoost membership scores (for server)
+-test_MLP.csv # MLP membership scores (for server)
+-test_Lira.csv # LiRA scores (for server)
+-shadow_attack_X.npy # Shadow set attack features
+-shadow_attack_y.npy # Shadow set attack labels
+-README.md # This file
 
 
 ---
